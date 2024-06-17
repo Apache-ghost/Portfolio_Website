@@ -6,7 +6,7 @@ import FooterBottom from "./components/footer/FooterBottom.jsx";
 import Navbar from "./components/navbar/Navbar.jsx";
 import Projects from "./components/projects/Projects.jsx";
 import Resume from "./components/resume/Resume.jsx";
-import Testimonial from "./components/tesimonial/Testimonial.jsx";
+
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
         <Features />
         <Projects />
         <Resume />
-        <Testimonial />
+      
         <Contact />
         <Footer />
         <FooterBottom />
