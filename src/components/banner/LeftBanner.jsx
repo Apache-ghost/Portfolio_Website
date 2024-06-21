@@ -40,13 +40,13 @@ const LeftBanner = () => {
           </h2>
           <div className="flex gap-4">
             <span className="bannerIcon">
-            <a href="https://github.com/Apache-ghost"><FaGithub /></a>
+            <a href="https://github.com/Apache-ghost" target="_blank"><FaGithub /></a>
             </span>
             <span className="bannerIcon">
-            <a href="https://x.com/guegouoguiddel"><FaTwitter /></a>
+            <a href="https://x.com/guegouoguiddel" target="_blank"><FaTwitter /></a>
             </span>
             <span className="bannerIcon">
-              <a href="https://www.linkedin.com/in/guegouoguiddel/"><FaLinkedinIn /></a>
+              <a href="https://www.linkedin.com/in/guegouoguiddel/" target="_blank"><FaLinkedinIn /></a>
             </span>
           </div>
         </div>

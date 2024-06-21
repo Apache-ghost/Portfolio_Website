@@ -30,13 +30,13 @@ const ContactLeft = () => {
         <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
         <div className="flex gap-4">
           <span className="bannerIcon">
-            <FaGithub />
+          <a href="https://github.com/Apache-ghost" target="_blank"><FaGithub /></a>
           </span>
           <span className="bannerIcon">
-            <FaTwitter />
+          <a href="https://x.com/guegouoguiddel"target="_blank"><FaTwitter /></a>
           </span>
           <span className="bannerIcon">
-            <FaLinkedinIn />
+          <a href="https://www.linkedin.com/in/guegouoguiddel/" target="_blank"><FaLinkedinIn /></a>
           </span>
         </div>
       </div>
