@@ -14,39 +14,34 @@ const Features = () => {
       <Title title="Features" des="What I Do" />
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">
         <Card
-          title="Business Stratagy"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="Web Development"
+          des="Crafting responsive and dynamic websites that offer seamless user experiences across all devices."
          
         />
+
         <Card
           title="App Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Creating intuitive and high-performance mobile applications to enhance user engagement and accessibility."
           icon={<AiFillAppstore />}
         />
         <Card
           title="SEO Optimisation"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Enhancing website visibility and search engine rankings through strategic SEO practices and keyword optimization."
           icon={<SiProgress />}
         />
         <Card
           title="Mobile Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Creating high-performance, user-friendly mobile applications for both Android and iOS platforms to meet your business needs."
           icon={<FaMobile />}
         />
         <Card
           title="UX Design"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Crafting intuitive and engaging user experiences through thoughtful design and user research to enhance product usability."
           icon={<SiAntdesign />}
         />
         <Card
           title="Hosting Websites"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Providing reliable and secure web hosting solutions to ensure your website remains accessible and performs optimally."
           icon={<FaGlobe />}
         />
       </div>

@@ -13,11 +13,11 @@ const ContactLeft = () => {
       <div className="flex flex-col gap-4">
         <h3 className="text-3xl font-bold text-white">Guegouo M. Guiddel</h3>
         <p className="text-lg font-normal text-gray-400">
-          Web Developer
+          Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+        Passionate coder with a knack for crafting elegant solutions and pushing
+         the boundaries of technology. Dedicated to continuous learning and delivering exceptional results.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+237 677880739</span>
