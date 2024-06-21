@@ -34,7 +34,7 @@ const Education = () => {
           />
           <ResumeCard
             title="primary education"
-            subTitle="G.B.H.S Koutaba(2006 - 2013)"
+            subTitle="G.B.H.S Ebolowa(2006 - 2013)"
             result="4.47/5"
             des="Providing foundational learning experiences and nurturing young minds to develop essential skills, 
             knowledge, and values for academic success and personal growth."
