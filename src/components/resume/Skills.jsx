@@ -17,7 +17,7 @@ const Skills = () => {
         </div>
         <div className='className="mt-14 w-full flex flex-col gap-6'>
           <div className="overflow-x-hidden">
-            <p className="text-sm uppercase font-medium">Photoshot</p>
+            <p className="text-sm uppercase font-medium">Canvas</p>
             <span className="w-full h-2 bgOpacity rounded-md inline-flex mt-2">
               <motion.span
                 initial={{ x: "-100%", opacity: 0 }}
@@ -42,7 +42,7 @@ const Skills = () => {
               </motion.span>
             </span>
           </div>
-          <div className="overflow-x-hidden">
+          {/* <div className="overflow-x-hidden">
             <p className="text-sm uppercase font-medium">Adobe XD.</p>
             <span className="w-full h-2 bgOpacity rounded-md inline-flex mt-2">
               <motion.span
@@ -54,8 +54,8 @@ const Skills = () => {
                 <span className="absolute -top-7 right-0">60%</span>
               </motion.span>
             </span>
-          </div>
-          <div className="overflow-x-hidden">
+          </div> */}
+          {/* <div className="overflow-x-hidden">
             <p className="text-sm uppercase font-medium">Adobe Illustrator</p>
             <span className="w-full h-2 bgOpacity rounded-md inline-flex mt-2">
               <motion.span
@@ -67,7 +67,7 @@ const Skills = () => {
                 <span className="absolute -top-7 right-0">70%</span>
               </motion.span>
             </span>
-          </div>
+          </div> */}
           <div className="overflow-x-hidden">
             <p className="text-sm uppercase font-medium">Design</p>
             <span className="w-full h-2 bgOpacity rounded-md inline-flex mt-2">
