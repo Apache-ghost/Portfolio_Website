@@ -27,14 +27,14 @@ const Education = () => {
           />
           <ResumeCard
             title="Secondary & High School education"
-            subTitle="G.B.H.S Koutaba (2013 - 2020)"
+            subTitle="G.B.H.S Koutaba (2015 - 2022)"
             result="4.75/5"
             des="Higher education is tertiary education leading to award of an academic degree. Higher education, also
              called post-secondary education."
           />
           <ResumeCard
             title="primary education"
-            subTitle="G.B.H.S Ebolowa(2006 - 2013)"
+            subTitle="G.B.H.S Ebolowa(2009- 2015)"
             result="4.47/5"
             des="Providing foundational learning experiences and nurturing young minds to develop essential skills, 
             knowledge, and values for academic success and personal growth."
